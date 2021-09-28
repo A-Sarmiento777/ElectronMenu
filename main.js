@@ -11,7 +11,7 @@ remoteMain.initialize();
 let mainWindow;
 
 function createWindow() {
-  // Create the browser window.
+  // Create the browser windowd.
   mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
